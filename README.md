@@ -19,7 +19,7 @@ Serializers:
 - composer command
 
 ```bash
-composer require swoft/serialize
+composer require swoft-fork/serialize
 ```
 
 ## Usage
